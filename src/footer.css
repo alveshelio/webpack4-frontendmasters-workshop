@@ -1,0 +1,23 @@
+footer {
+  height: 200px;
+  background: blueviolet;
+  padding: 10px;
+  color: mediumpurple;
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+footer .top, footer .bottom {
+  height: 50%;
+  text-align: center;
+}
+
+.top {
+  background: orange;
+}
+
+.bottom {
+  background: orangered;
+}
